@@ -43,7 +43,7 @@ p {
 }
 /*----------------------*/
 
-//Flex
+/*Flex*/
 .flex-s-beetwen {
 	justify-content: space-between;
 }
@@ -137,8 +137,7 @@ ul li {
 .button-for-registering p {
 	color: #ff8141;
 	font-size: 20px;
-	margin-bottom: 13px;
-	margin-top: 33px;
+	margin: 33px 0 13px;
 }
 
 .button-for-registering>p,
@@ -185,7 +184,6 @@ ul li {
 //Section
 .section {
 	position: relative;
-	
 }
 
 section {
